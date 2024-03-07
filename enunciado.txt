@@ -1,0 +1,1 @@
+Realiza la parte cliente para gestionar una biblioteca, para ello debes de tener en cuenta la parte backend que se adjunta en el fichero comprimido en .zip. Utiliza un diseño parecido al diseño que se adjunta como captura de pantalla.
